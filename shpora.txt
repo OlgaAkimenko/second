@@ -1,0 +1,8 @@
+git init - creating repo
+git add - add changes
+git commit - save changes
+git push - send saved commits to remote
+git pull - download commits from remote
+git status - status
+git merge - merging branches
+git branch - working with branches
