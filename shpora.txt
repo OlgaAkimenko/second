@@ -6,3 +6,6 @@ git pull - download commits from remote
 git status - status
 git merge - merging branches
 git branch - working with branches
+git log - history of repo
+
+origin - remote repo name
